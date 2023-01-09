@@ -1,0 +1,3 @@
+r rc liball.a *.o
+
+
